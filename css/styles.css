@@ -1,20 +1,20 @@
 body {
 	font-size: 16px;
 	color: white;
-	background-color: #8243d6;
+	background-color: #61122f;
 	font-family: 'Lobster', cursive;
 }
 
 /* HEADER */
 #header-nav {
-	background-color: #530fad;
+	background-color: #f6b319;
 	border-radius: 0;
 	border: 0;
 	color: white;
 }
 
 .navbar-brand p {
-	color: white;
+	color: #000;
 	font-size: 20px;
 }
 
